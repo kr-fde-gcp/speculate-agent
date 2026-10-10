@@ -1,0 +1,4 @@
+# Market Pulse agent
+# The data layer is standard-library only on purpose -- ADK is the sole
+# runtime dependency, and the tools stay importable and testable without it.
+google-adk>=1.0.0
